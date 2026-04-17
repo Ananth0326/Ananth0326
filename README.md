@@ -56,7 +56,7 @@ I'm a **B.Tech graduate in Artificial Intelligence & Machine Learning** who buil
 |---------|-------|----------------|
 | **[InkTrace](https://github.com/Ananth0326/inktrace-gmail-security)** | React, FastAPI, Python, Llama 3 | 3-stage phishing detection, 500+ emails/scan, sub-200ms response |
 | **[GitPulse](https://github.com/Ananth0326/gitpulse)** | React, FastAPI, Python, scikit-learn | 60% faster with async, 12+ metrics, K-Means clustering |
-| **[TaskFlow API](https://github.com/Ananth0326/taskflow-api)** | Node.js, Express, MongoDB, Jest | REST API with CRUD, JWT auth, 85% test coverage |
+
 
 ---
 
