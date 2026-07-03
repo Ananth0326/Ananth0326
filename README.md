@@ -1,86 +1,435 @@
+```md
 <div align="center">
 
-# Anantha Kashyap Pathiki
+<img src="./assets/hero.svg" width="100%" alt="Hero"/>
 
-### Software Engineer | AI/ML Graduate | Full-Stack Developer
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/anantha-kashyap)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ananthkashyap2@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Ananth0326)
+<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=18&pause=1800&color=58A6FF&center=true&vCenter=true&width=760&lines=Software+Engineer;Full-Stack+Developer;Building+modern+software.;Machine+Learning+%7C+RAG+%7C+LLMs;Open+to+Software+Engineering+Opportunities"/>
+
+<br><br>
+
+<a href="https://github.com/Ananth0326">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anantha-kashyap-pathiki-43b965230">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Resume-0F172A?style=for-the-badge"/>
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-I'm a **B.Tech graduate in Artificial Intelligence & Machine Learning** who builds production-ready applications. I care about clean code, scalable APIs, full-stack development, and AI-powered solutions.
+<img src="./assets/divider.svg" width="100%"/>
 
-* 🔭 Currently building: Full-stack and AI-powered applications
-* 🌱 Learning: TypeScript and Cloud Technologies
-* 👯 Looking to collaborate on: Open source full-stack projects
-* 🤝 Open to: Software Engineer, Full Stack Developer, Backend Developer, and Technical Analyst roles
-* 📍 Location: India (Willing to relocate / Remote)
-* ⚡ Interests: System Design, AI Systems, Scalable Backend Development
+</div>
+
+<img src="./assets/terminal.svg" width="100%" alt="Terminal"/>
 
 ---
 
-## 🚀 Tech Stack
+<div align="center">
+
+# Selected Work
+
+*A collection of applications exploring full-stack engineering and practical AI.*
+
+</div>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<img src="./assets/project-inktrace.svg"/>
+
+</td>
+
+<td width="50%">
+
+### InkTrace
+
+AI-powered Gmail Security Platform.
+
+**Highlights**
+
+- Gmail OAuth
+- Hybrid Detection
+- Vector Search
+- LLM Analysis
+- Privacy First
+
+**Stack**
+
+`Python`
+`FastAPI`
+`React`
+`SQLite`
+`Groq`
+`RAG`
+
+**Repository**
+
+→ `github.com/Ananth0326/InkTrace`
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### GitPulse
+
+Developer analytics dashboard.
+
+**Highlights**
+
+- GitHub API
+- Interactive Dashboard
+- Repository Analytics
+- Developer Insights
+
+**Stack**
+
+`Python`
+`FastAPI`
+`React`
+
+**Repository**
+
+→ `github.com/Ananth0326/GitPulse`
+
+</td>
+
+<td width="50%">
+
+<img src="./assets/project-gitpulse.svg"/>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<img src="./assets/project-jobtracker.svg"/>
+
+</td>
+
+<td width="50%">
+
+### Job Tracker
+
+Personal full-stack application for managing applications and interviews.
+
+**Highlights**
+
+- Authentication
+- Dashboard
+- CRUD
+- Responsive UI
+
+**Stack**
+
+`React`
+`FastAPI`
+`PostgreSQL`
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+<img src="./assets/divider.svg" width="100%"/>
+
+</div>
+
+# Learning Journey
+
+Instead of collecting tutorials, I prefer learning by building.
+
+### Current Focus
+
+- Backend Engineering
+- System Design
+- Docker
+- LangGraph
+- Agentic AI
+- Cloud Fundamentals
+
+### Learning Projects
+
+- Local RAG Mini
+- FastAPI Starter
+- ML Playground
+
+---
+
+<div align="center">
+
+<img src="./assets/tech-stack.svg" width="100%"/>
+
+</div>
+
+---
+
+# GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ananth0326&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananth0326&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ananth0326&theme=tokyo-night&hide_border=true"/>
+
+<br><br>
+
+<img width="100%" src="https://raw.githubusercontent.com/Ananth0326/Ananth0326/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Engineering Philosophy
+
+> I enjoy building complete software—from polished user interfaces and reliable backend systems to practical AI features that solve real problems.
+
+---
+
+<div align="center">
+
+## Open to Opportunities
+
+I'm a **B.Tech AI & ML graduate** looking for **Software Engineer**, **Full-Stack Developer**, **Backend Developer**, and **AI/ML Engineer** opportunities where I can contribute, learn from experienced teams, and continue growing through real-world engineering.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./assets/footer.svg" width="100%"/>
+
+</div>
+```
+```md
+<div align="center">
+
+## Selected Work
+
+Building products that combine modern software engineering with practical AI.
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="48%" valign="top">
+
+### 🛡 InkTrace
+
+**AI-powered Gmail Security Platform**
+
+Detects phishing, suspicious emails, and malicious activity using a hybrid AI pipeline that combines rule-based analysis, semantic retrieval, and LLM reasoning.
+
+**Highlights**
+
+- Gmail OAuth Integration
+- Hybrid Detection Pipeline
+- Vector Search
+- LLM-assisted Classification
+- Privacy-first Architecture
+
+**Tech**
+
+`Python` `FastAPI` `React`
+`SQLite` `Groq` `FastEmbed`
+`RAG`
+
+<br>
+
+<a href="https://github.com/Ananth0326/InkTrace">View Repository →</a>
+
+</td>
+
+<td width="4%"></td>
+
+<td width="48%" align="center">
+
+<img width="100%" src="./assets/project-inktrace.svg"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td width="48%" align="center">
+
+<img width="100%" src="./assets/project-gitpulse.svg"/>
+
+</td>
+
+<td width="4%"></td>
+
+<td width="48%" valign="top">
+
+### 📊 GitPulse
+
+**Developer Analytics Dashboard**
+
+Visualizes GitHub activity through an interactive dashboard, helping developers understand productivity, repositories, commits, and contribution trends.
+
+**Highlights**
+
+- GitHub API Integration
+- Interactive Dashboard
+- Repository Analytics
+- Contribution Insights
+- Responsive Interface
+
+**Tech**
+
+`Python` `FastAPI`
+`React`
+`GitHub API`
+
+<br>
+
+<a href="https://github.com/Ananth0326/GitPulse">View Repository →</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td width="48%" valign="top">
+
+### 💼 Job Tracker
+
+**Full-Stack Job Management Platform**
+
+A personal application to organize job applications, interviews, notes, and progress throughout the job search.
+
+**Highlights**
+
+- Secure Authentication
+- Dashboard
+- Application Tracking
+- Clean Responsive UI
+
+**Tech**
+
+`React`
+`FastAPI`
+`PostgreSQL`
+
+<br>
+
+<sub>Currently evolving with new features.</sub>
+
+</td>
+
+<td width="4%"></td>
+
+<td width="48%" align="center">
+
+<img width="100%" src="./assets/project-jobtracker.svg"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="./assets/divider.svg" width="100%"/>
+
+</div>
+
+# Technology
+
+<div align="center">
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python\&logoColor=white\&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript\&logoColor=black\&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript\&logoColor=white\&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5\&logoColor=white\&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3\&logoColor=white\&style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,sql"/>
+
+<br><br>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react\&logoColor=black\&style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
 
-### Backend & Databases
+<br><br>
 
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi\&logoColor=white\&style=for-the-badge)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask\&logoColor=white\&style=for-the-badge)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django\&logoColor=white\&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql\&logoColor=white\&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql\&logoColor=white\&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb\&logoColor=white\&style=for-the-badge)
+### Backend
 
-### AI / ML
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs"/>
 
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge)
-![RAG](https://img.shields.io/badge/-RAG-4285F4?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/-LLMs-8E44AD?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikitlearn\&logoColor=white\&style=for-the-badge)
+<br><br>
 
-### DevOps & Tools
+### AI & Machine Learning
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker\&logoColor=white\&style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions\&logoColor=white\&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git\&logoColor=white\&style=for-the-badge)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman\&logoColor=white\&style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 
----
+<br>
 
-## 🚀 Featured Projects
+`Machine Learning` • `RAG` • `LLMs` • `LangChain` • `Ollama`
 
-| Project                                                               | Stack                                  | Key Highlights                                                                                        |
-| --------------------------------------------------------------------- | -------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| **[CoBuild](https://github.com/Ananth0326/CoBuild)**                  | React, FastAPI, PostgreSQL, WebSockets | Developer collaboration platform, GitHub OAuth, Ghost Protection workflows, Real-time team workspaces |
-| **[InkTrace](https://github.com/Ananth0326/inktrace-gmail-security)** | React, FastAPI, Python, Llama 3        | AI-powered phishing detection, RAG pipelines, Explainable AI, Semantic search                         |
-| **[GitPulse](https://github.com/Ananth0326/gitpulse)**                | Python, scikit-learn, GitHub API       | Developer analytics, Repository insights, K-Means clustering, Activity dashboards                     |
+<br><br>
 
----
+### Databases & Tools
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Anantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ananth0326\&show_icons=true\&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananth0326\&layout=compact\&theme=dark)
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,docker,git,github,linux,postman"/>
 
 </div>
 
@@ -88,6 +437,169 @@ I'm a **B.Tech graduate in Artificial Intelligence & Machine Learning** who buil
 
 <div align="center">
 
-*"Building software that solves problems, scales reliably, and creates impact."*
+<img src="./assets/divider.svg" width="100%"/>
 
 </div>
+
+# Learning Journey
+
+I'm constantly improving by building projects rather than only following tutorials.
+
+### Currently Exploring
+
+- Agentic AI
+- LangGraph
+- Docker & Containers
+- System Design
+- Cloud Fundamentals
+- Advanced Backend Engineering
+
+### Learning Projects
+
+- Local RAG Mini
+- FastAPI Starter
+- Machine Learning Playground
+
+> Every new concept eventually becomes a project.
+```
+````md
+<div align="center">
+
+<img src="./assets/divider.svg" width="100%"/>
+
+</div>
+
+# Journey
+
+```text
+2024
+│
+├─ Frontend Development
+│
+├─ Backend Engineering
+│
+├─ Machine Learning
+│
+├─ Retrieval-Augmented Generation
+│
+└─ Building Complete Products
+```
+
+### Current Focus
+
+- Building polished full-stack applications
+- Writing clean, maintainable backend services
+- Integrating practical AI into real-world products
+- Improving problem-solving and system design
+- Contributing to open source whenever possible
+
+---
+
+<div align="center">
+
+<img src="./assets/divider.svg" width="100%"/>
+
+</div>
+
+# GitHub Activity
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ananth0326&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananth0326&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=Ananth0326&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ananth0326&theme=tokyo-night&hide_border=true&area=true"/>
+
+<br><br>
+
+<img width="100%" src="https://raw.githubusercontent.com/Ananth0326/Ananth0326/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./assets/divider.svg" width="100%"/>
+
+</div>
+
+# Beyond Code
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### Engineering Principles
+
+- Build before optimizing.
+- Keep interfaces simple.
+- Learn continuously.
+- Prefer clarity over cleverness.
+- Write software that solves real problems.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Outside Development
+
+- Exploring modern UI/UX
+- Learning new technologies
+- Reading engineering blogs
+- Building portfolio projects
+- Experimenting with AI tools
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## Open to Opportunities
+
+I'm actively looking for opportunities as a
+
+**Software Engineer • Full-Stack Developer • Backend Developer • AI/ML Engineer**
+
+where I can contribute to meaningful products, learn from experienced engineers, and continue growing through real-world software development.
+
+<br>
+
+Let's build something great together.
+
+<br><br>
+
+<a href="https://github.com/Ananth0326">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/anantha-kashyap-pathiki-43b965230">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Resume-0F172A?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+<img src="./assets/footer.svg" width="100%"/>
+
+</div>
+````
