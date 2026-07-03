@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 <img src="./assets/hero.svg" width="100%" alt="Hero"/>
@@ -602,4 +602,3 @@ Let's build something great together.
 <img src="./assets/footer.svg" width="100%"/>
 
 </div>
-````
