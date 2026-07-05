@@ -74,10 +74,6 @@ I'm a passionate AI & ML graduate who loves building real-world applications —
 </p>
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ananth0326&theme=tokyonight&hide_border=true&background=0d1117&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 🐍 CONTRIBUTION SNAKE
