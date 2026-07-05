@@ -65,9 +65,14 @@ I'm a passionate AI & ML graduate who loves building real-world applications —
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ananth0326&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananth0326&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1D9E75&text_color=c9d1d9" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-liart-five-15.vercel.app/api?username=Ananth0326&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-liart-five-15.vercel.app/api/top-langs/?username=Ananth0326&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1D9E75&text_color=c9d1d9" alt="Top Languages" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ananth0326&theme=tokyonight&hide_border=true&background=0d1117&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75" alt="GitHub Streak" />
+</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ananth0326&theme=tokyonight&hide_border=true&background=0d1117&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75" alt="GitHub Streak" />
